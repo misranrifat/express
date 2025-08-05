@@ -56,29 +56,23 @@ express-restful/
 
 ### Installation
 
-1. Clone the repository
-   ```
-   git clone https://github.com/yourusername/express-restful.git
-   cd express-restful
-   ```
-
-2. Install dependencies
+1. Install dependencies
    ```
    npm install
    ```
 
-3. Create a `.env` file (see `.env.example` for reference)
+2. Create a `.env` file (see `.env.example` for reference)
    ```
    PORT=3000
    NODE_ENV=development
    ```
 
-4. Start the development server
+3. Start the development server
    ```
    npm run dev
    ```
 
-5. For production
+4. For production
    ```
    npm start
    ```
